@@ -7,6 +7,7 @@ Projeto desenvolvido para fins de estudo :)
 
 - Singleton
 - Prototype
+- Factory
 
 ## Execução
 
