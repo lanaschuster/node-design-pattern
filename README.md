@@ -8,6 +8,8 @@ Projeto desenvolvido para fins de estudo :)
 - Singleton
 - Prototype
 - Factory
+- Builder
+- Adapter
 
 ## Execução
 
@@ -15,3 +17,5 @@ Cada Design Pattern está separado por diretórios. Para executar algum exemplo 
 
 ``node .\singleton\index.js``
 
+O exemplo de Adapter possui como dependência o pacote bcrypt:
+``cd adapter; npm i; node index.js``
