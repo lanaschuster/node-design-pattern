@@ -10,6 +10,7 @@ Projeto desenvolvido para fins de estudo :)
 - Factory
 - Builder
 - Adapter
+- Proxy
 
 ## Execução
 
