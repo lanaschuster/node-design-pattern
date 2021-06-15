@@ -11,6 +11,8 @@ Projeto desenvolvido para fins de estudo :)
 - Builder
 - Adapter
 - Proxy
+- Composite
+- Decorator
 
 ## Execução
 
